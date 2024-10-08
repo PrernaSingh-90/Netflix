@@ -1,2 +1,3 @@
 # React + Vite
-A Netflix clone is a customizable streaming platform that is similar to Netflix.
+I Developed a Pexels Clone using React.js and Tailwind CSS 
+I added many more feature in this you have to explore all of these one by one
